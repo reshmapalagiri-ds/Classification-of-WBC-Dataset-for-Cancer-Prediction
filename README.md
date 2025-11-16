@@ -137,6 +137,7 @@ dt.predict_proba()
 Below are screenshots from the project for better understanding:
 
 1️⃣ Dataset Preview
+(showing first few columns due to dataset width)
 
 2️⃣ Model Performance Output
 
