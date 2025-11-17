@@ -168,23 +168,23 @@ Google Colab
 
 ## ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/reshmapalagiri-ds/Classiication-of-WBC-Dataset-for-Cancer-Prediction.git
+    git clone https://github.com/reshmapalagiri-ds/Classiication-of-WBC-Dataset-for-Cancer-Prediction.git
 
-cd Classification-of-WBC-Dataset-for-Cancer-Prediction
+    cd Classification-of-WBC-Dataset-for-Cancer-Prediction
 
 2. Install Dependencies
    
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Run the Notebook
 
-Open the .ipynb file using:
+    Open the .ipynb file using:
 
-Google Colab
+     Google Colab
 
-Jupyter Notebook
+     Jupyter Notebook
 
-VS Code Notebook
+     VS Code Notebook
 
 ## 📁 Project Structure
 |-- wbc.csv
