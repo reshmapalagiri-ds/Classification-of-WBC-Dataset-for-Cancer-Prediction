@@ -138,12 +138,17 @@ Below are screenshots from the project for better understanding:
 
 1️⃣ Dataset Preview
 (showing first few columns due to dataset width)
+![Dataset Prreview](https://github.com/reshmapalagiri-ds/Classification-of-WBC-Dataset-for-Cancer-Prediction/blob/main/WBC%20dataset%20Preview.png?raw=true)
 
 2️⃣ Model Performance Output
+![Model Performnace output]()
 
 3️⃣ Decision Boundary Visualization
+![Decision Boundary Visualization]()
 
 4️⃣ Decision Tree Structure
+![Decision Tree Structure]()
+
 
 ## 🛠️ Technologies & Libraries
 
