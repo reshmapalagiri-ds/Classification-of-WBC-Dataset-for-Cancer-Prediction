@@ -172,11 +172,11 @@ git clone https://github.com/reshmapalagiri-ds/Classiication-of-WBC-Dataset-for-
 
 cd Classification-of-WBC-Dataset-for-Cancer-Prediction
 
-3. Install Dependencies
-4. 
+2. Install Dependencies
+   
 pip install -r requirements.txt
 
-5. Run the Notebook
+3. Run the Notebook
 
 Open the .ipynb file using:
 
