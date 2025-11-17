@@ -188,22 +188,31 @@ Google Colab
 
 ## 📁 Project Structure
 |-- wbc.csv
+
 |-- DT-wbc-project.ipynb
+
 |-- README.md
+
 |-- imagename.png
+
 |-- screenshots/
 |     |-- dataset_preview.png
 |     |-- model_performance.png
 |     |-- decision_boundary.png
 |     |-- decision_tree.png
+
 |-- requirements.txt
 
 ## 💡 Key Learnings
 
 ✔ Understanding Decision Trees
+
 ✔ Handling overfitting via depth tuning
+
 ✔ Visualizing classifier behavior
+
 ✔ Extracting medically relevant feature importance
+
 ✔ Building explainable ML models
 
 ## 🔮 Future Enhancements
