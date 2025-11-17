@@ -144,7 +144,7 @@ Below are screenshots from the project for better understanding:
 ![Model Performnace output](https://github.com/reshmapalagiri-ds/Classification-of-WBC-Dataset-for-Cancer-Prediction/blob/main/Model%20Performnance%20output.png?raw=true)
 
 3️⃣ Decision Boundary Visualization
-![Decision Boundary Visualization]()
+![Decision Boundary Visualization](https://github.com/reshmapalagiri-ds/Classification-of-WBC-Dataset-for-Cancer-Prediction/blob/main/Visualisation%20boundary.png?raw=true)
 
 4️⃣ Decision Tree Structure
 ![Decision Tree Structure]()
