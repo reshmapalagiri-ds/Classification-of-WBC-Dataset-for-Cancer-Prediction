@@ -147,7 +147,7 @@ Below are screenshots from the project for better understanding:
 ![Decision Boundary Visualization](https://github.com/reshmapalagiri-ds/Classification-of-WBC-Dataset-for-Cancer-Prediction/blob/main/Visualisation%20boundary.png?raw=true)
 
 4️⃣ Decision Tree Structure
-![Decision Tree Structure]()
+![Decision Tree Structure](https://github.com/reshmapalagiri-ds/Classification-of-WBC-Dataset-for-Cancer-Prediction/blob/main/Decision%20Tree%20Structure.png?raw=true)
 
 
 ## 🛠️ Technologies & Libraries
